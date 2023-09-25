@@ -1,7 +1,7 @@
 ### Hi, I'm Moon 👋
 ![muhdarfan's GitHub stats](https://github-readme-stats.vercel.app/api?username=moon1100&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhdarfan&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moon1100&layout=compact)
 
 - 🔭 I’m currently working on brainstorming ideas for next project.
 - 🌱 I’m currently learning <b>ReactJS, Laravel, CodeIgniter</b> and <strike>tackle a girl.</strike>
