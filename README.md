@@ -1,7 +1,4 @@
 <h1 align="center">Hi, I'm Moon 🌙</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=F97316&center=true&vCenter=true&multiline=true&width=435&lines=Code.+Sleep.+Coffee.+Repeat.;Building+ApaSedap.com+🍜;Trying+to+Make+an+Impact!" alt="Typing SVG" />
-</p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="180" alt="funny-coding-gif" />
